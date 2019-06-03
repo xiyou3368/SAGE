@@ -33,13 +33,13 @@ proteins
 
 # Example
 use pretrained model
-
+```
 python train.py
-
+```
 train from scratch
 
-
+```
 python train.py --train True
-
+```
 # Result
 The average accuracy for the pretrained model is 0.80328 for proteins.
