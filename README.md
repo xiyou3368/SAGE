@@ -12,13 +12,14 @@ Details can be found in the paper:
 > [[Paper]](https://arxiv.org/pdf/1904.05003.pdf)
 
 # Requirements
+```
 python            2.7.15
 tensorflow        1.90
 numpy             1.15.0
 networkx          2.1
 scipy             1.1.0
 sklearn           0.19.1
-
+```
 # Dataset
 proteins
 
