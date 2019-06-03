@@ -1,7 +1,7 @@
 # SAGE
 A tensorflow implementation of self attentive graph embedding (SAGE) in WWW 2019
 <p align="center">
-  <img width="800" src="sage.jpg">
+  <img width="800" src="sage.JPG">
 </p>
 <p align="justify">
 
