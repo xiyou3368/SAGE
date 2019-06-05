@@ -1,5 +1,5 @@
 # SAGE
-A tensorflow implementation of self attentive graph embedding (SAGE) in WWW 2019
+A tensorflow implementation of self attentive graph embedding (SAGE) in Semi-Supervised Graph Classification: A Hierarchical Graph Perspective (WWW 2019) 
 <p align="center">
   <img width="800" src="sage.JPG">
 </p>
